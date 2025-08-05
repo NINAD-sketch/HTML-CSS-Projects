@@ -6,7 +6,7 @@ This repository is a collection of my **HTML and CSS-only mini projects**.
 Each folder contains a standalone project built to practice and improve my front-end development skills.
 
 ## 🧩 List of Projects
-1.
+1. Cafe Menu Page
 
 📌 Status
 ✅ Continuously Adding New Projects
