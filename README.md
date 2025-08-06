@@ -7,6 +7,7 @@ Each folder contains a standalone project built to practice and improve my front
 
 ## 🧩 List of Projects
 1. Cafe Menu Page
+2. Registration form
 
 📌 Status
 ✅ Continuously Adding New Projects
